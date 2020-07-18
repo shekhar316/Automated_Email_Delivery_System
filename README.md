@@ -1,4 +1,4 @@
-# Automated_Email_Delivery_System
+# Automated Email Delivery System
 An automated email delivery system for various purposes using Python.
 
 ## Features :
